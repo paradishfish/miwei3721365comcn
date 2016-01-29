@@ -83,7 +83,6 @@ body a{
 	vertical-align: middle;
 }
 .introduct{
-	background-color: #eee;
 	padding:5em 0;
 	text-align:center;
 }
@@ -338,7 +337,7 @@ a.fa-btn.btn1.btn-1.btn-1e {
 	border: 2px solid #000;
 	color: #000;
 }
-.work_btn a, .help a, .grid1 a, .quote, .introduct a{
+.work_btn a, .help a, .grid1 a, .quote a{
 	position: relative;
 	z-index: 1;
 }
@@ -384,13 +383,6 @@ ul.clients_grid li{
 .about{
 	text-align:center;
 	padding:5em 0;
-}
-.center-block
-{
-	 display: block;
-  margin-left: auto;
-  margin-right: auto;
-
 }
 .about_grid{
 	margin-top:3em;
